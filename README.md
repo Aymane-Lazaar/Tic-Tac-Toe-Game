@@ -240,14 +240,6 @@ event sharing, and technique-driven thinking.
 - **Dr. Mohammed Abu-Hadhoud**
 - **[https://programmingadvices.com](https://programmingadvices.com)**
 
----
-
-## 🔗 LinkedIn Post
-
-> Full demo video and details available on LinkedIn:
-> [View Post](https://www.linkedin.com/posts/ahmed-yaser-mt_csharp-dotnet-winforms-ugcPost-7460771546198900736--WAc?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFPMIswBcvLoTHZvRE41ps8H-E1OpPUyxeo)
-
----
 
 ## 🚀 What's Next?
 
