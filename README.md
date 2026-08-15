@@ -1,4 +1,4 @@
-# 🎮 Project 24 — Tic-Tac-Toe Game
+# 🎮 — Tic-Tac-Toe Game
 
 > Second WinForms desktop application — a fully interactive two-player Tic-Tac-Toe game built with C# and .NET Framework as part of Course 14 (C# Level 1) in the Programming Advices roadmap.
 
